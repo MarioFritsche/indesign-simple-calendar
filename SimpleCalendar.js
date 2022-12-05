@@ -79,6 +79,9 @@ for (var i = 0; i < dateFormatList.length; i++) {
 };
 
 // Dialog
+// Dialog angepasst, Script von Gerald Singelmann: https://www.hilfdirselbst.ch/foren/ScriptUI_-_Hinzuf%FCgen_neuer_Eingabefelder_%FCber_Benutzeroberfl%E4che_P540693.html#540693
+// Aufgearbeitet von Peter Kahrel https://creativepro.com/files/kahrel/indesign/scriptui.html
+
 var newDialog = new Window("dialog");
 newDialog.text = "Simple Calendar";
 newDialog.preferredSize.width = 500;
