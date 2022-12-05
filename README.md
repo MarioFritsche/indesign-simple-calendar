@@ -1,7 +1,7 @@
 # InDesign Script Einfacher Kalender 
 Dieses Script erstellt einen einfache Liste von Kalenderdaten in ein ausgewähltes Textfeld. Über einen Dialog kann die Ausgabe angepasst werden.
 ## Installation
-Die [SimpleCalendar.js](SimpleCalendar) im Scripte-Ordner von InDesign ablegen.<br/>
+Die [SimpleCalendar.js](SimpleCalendar.js) im Scripte-Ordner von InDesign ablegen.<br/>
 So installierst Du in InDesign Scripte: [Homepage InDesignScript](https://www.indesignscript.de/indesign-skript-installieren/)
 
 ## Anwendung
